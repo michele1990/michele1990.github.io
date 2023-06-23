@@ -6,10 +6,10 @@ In my work, I primarily focus on Data Integrations and Geospatial Analytics. I h
 
 ## Projects
 
-I've worked on a number of projects, with a couple of them highlighted below:
+For the time being here you can see an assignment for "Professional Certification in Data Enginering" at MIT XPRO, soon other projects!
 
-1. [Project 1](https://github.com/your_username/IBM-Django-Application-Development)
-2. [Project 2](https://github.com/your_username/[Project2Link])
+[PCDE-Activity-9.1](https://github.com/michele1990/PCDE-Activity-9.1)
+
 
 ## Contact Me
 
