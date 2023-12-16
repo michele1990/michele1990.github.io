@@ -1,6 +1,6 @@
 # Welcome to Michele Maestrale's Homepage
 
-Hello, I'm Michele Maestrale, a Data Analyst at Glovo.
+Hello, I'm Michele Maestrale, a Business Analyst at Glovo.
 
 In my work, I primarily focus on Data Integrations and Geospatial Analytics. I have a passion for translating data into business insights and creating data-driven strategies.
 
