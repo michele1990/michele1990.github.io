@@ -1,5 +1,7 @@
 # Welcome to Michele Maestrale's Professional Portfolio
 
+After managing Data Integration for Glovo's Italian Q- commerce partners for a year, I've moved to a global role focusing on Data Integration Quality and Tech solutions development. My five-year background in logistics operations provides me with a strong foundation in process management and a continuous improvement approach, enhancing data integration practices and efficiency
+
 ## Introduction
 - **Name:** Michele Maestrale
 - **Role:** Business Analyst at Glovo
@@ -7,7 +9,6 @@
 - **Contacts:** michele.maestrale90@gmail.com -  [LinkedIn Profile](https://www.linkedin.com/in/michele-maestrale-3250b681/)
 - **Portfolio Website:** [NorthWestWind.org](http://www.northwestwind.org/) (WIP)
 
-After managing Data Integration for Glovo's Italian Q- commerce partners for a year, I've moved to a global role focusing on Data Integration Quality and Tech solutions development. My five-year background in logistics operations provides me with a strong foundation in process management and a continuous improvement approach, enhancing data integration practices and efficiency
 
 ---
 
