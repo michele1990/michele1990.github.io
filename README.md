@@ -1,12 +1,13 @@
 # Welcome to Michele Maestrale's Homepage
 
-Hello, I'm Michele Maestrale, a Business Analyst at Glovo.
+Hello, I'm Michele Maestrale, Business Analyst at Glovo.
 
 In my work, I primarily focus on Data Integrations and Geospatial Analytics. I have a passion for translating data into business insights and creating data-driven strategies.
 
+you can see my projects running at [NorthWestWind porfolio WebSite](https://www.northwestwind.org) (WIP)
+
 ## Projects
 
-For the time being here you can see an assignment for "Professional Certification in Data Enginering" at MIT XPRO, soon other projects!
 
 [PCDE-Activity-9.1](https://michele1990.github.io/PCDE-Activity-9.1/)
 
