@@ -4,9 +4,10 @@ Hello, I'm Michele Maestrale, Business Analyst at Glovo.
 
 In my work, I primarily focus on Data Integrations and Geospatial Analytics. I have a passion for translating data into business insights and creating data-driven strategies.
 
-you can see my projects running at [NorthWestWind porfolio WebSite](https://www.northwestwind.org) (WIP)
+you can see my projects running at [porfolio WebSite](www.northwestwind.org) (WIP)
 
 ## Projects
+
 
 
 [PCDE-Activity-9.1](https://michele1990.github.io/PCDE-Activity-9.1/)
