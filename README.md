@@ -5,7 +5,7 @@
 - **Role:** Business Analyst at Glovo
 - **Specialization:** Data Integrations and Geospatial Analytics
 - **Contacts:** michele.maestrale90@gmail.com -  [LinkedIn Profile](https://www.linkedin.com/in/michele-maestrale-3250b681/)
-- **Portfolio Website:** [NorthWestWind.org](http://www.northwestwind.org/)
+- **Portfolio Website:** [NorthWestWind.org](http://www.northwestwind.org/) (WIP)
 
 ---
 
