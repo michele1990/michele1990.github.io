@@ -1,25 +1,50 @@
-# Welcome to Michele Maestrale's Homepage
+# Welcome to Michele Maestrale's Professional Portfolio
 
-Hello, I'm Michele Maestrale, Business Analyst at Glovo.
+## Introduction
+- **Name:** Michele Maestrale
+- **Role:** Business Analyst at Glovo
+- **Specialization:** Data Integrations and Geospatial Analytics
+- **Contact:** michele.maestrale90@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/michele-maestrale-3250b681/)
+- **Portfolio Website:** michele.maestrale90@gmail.com | [LinkedIn Profile](http://www.northwestwind.org/)
 
-In my work, I primarily focus on Data Integrations and Geospatial Analytics. I have a passion for translating data into business insights and creating data-driven strategies.
+---
 
-you can see my projects running at [porfolio WebSite](www.northwestwind.org) (WIP)
+## Project Showcase
 
-## Projects
+### 1. Flask-Postgres-Docker
+- **Overview:** A Flask application with PostgreSQL database, containerized using Docker.
+- **Key Features:**
+  - Web interface for database interactions
+  - Easy setup and deployment with Docker Compose
+- **Structure:** Includes `docker-compose.yml`, Flask app directory, PostgreSQL setup, and README.
+- **Usage:** Instructions for cloning, building, and running the project.
+- **Customization:** Guidance on modifying the Flask app and PostgreSQL setup.
+- **GitHub Repository:** [Flask-Postgres-Docker](https://github.com/michele1990/flask-postgres-docker)
 
+---
 
+### 2. Installable Library Python Test
+- **Description:** A simple, pip-installable Python library.
+- **Directory Structure:** Contains `mylibrary` with `__init__.py` and `hello.py`, along with `setup.py`.
+- **Setup Instructions:** Steps to create the directory, clone the repo, and install the library.
+- **GitHub Repository:** [Installable-Library-Python-Test](https://github.com/michele1990/installable-library-python-test)
 
-[PCDE-Activity-9.1](https://michele1990.github.io/PCDE-Activity-9.1/)
+---
 
-[PCDE-Activity-9.1](https://michele1990.github.io/PCDE-Activity-9.1/)
+### 3. Webapp-Base
+- **Purpose:** Foundational template for scalable web applications using React, Flask, PostgreSQL, and Nginx.
+- **Components:**
+  - React frontend
+  - Flask backend
+  - PostgreSQL database
+  - Nginx for reverse proxy
+- **Setup:** Guide to clone, build, and start the services using Docker Compose.
+- **Architecture:** Details of React-Flask-PostgreSQL interaction and Nginx's role.
+- **Customization and Contribution:** Information on how to customize and contribute to the project.
+- **GitHub Repository:** [Webapp-Base](https://github.com/michele1990/webapp-base)
 
-[PCDE-Activity-9.1](https://michele1990.github.io/PCDE-Activity-9.1/)
+---
 
-[PCDE-Activity-9.1](https://michele1990.github.io/PCDE-Activity-9.1/)
-
-
-## Contact Me
-
-Feel free to reach out to me on [LinkedIn]([[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/michele-maestrale-3250b681/)]([https://www.linkedin.com/in/michele-maestrale-3250b681/](https://www.linkedin.com/in/michele-maestrale-3250b681/))) or via email at michele.maestrale90@gmail.com. I'm always open to connecting with fellow data enthusiasts!
-
+## Conclusion
+- **Invitation for Collaboration:** Open to contributions, project discussions, and professional networking.
+- **Acknowledgement:** Gratitude for the opportunity to showcase these projects.
